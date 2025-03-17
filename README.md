@@ -1,9 +1,9 @@
 # Dumfries Hydrogeological Model
 
-This repository contains a **hydrogeological modeling** of the Dumfries groundwater basin located in project using **Python** and **Flopy**. The notebook includes:
+This repository contains a Jupyter notebook of **hydrogeological modeling** of the **Dumfries** groundwater basin located in Southern Scotland developed during the class "Groundwater Flow Modelling" at the University of Strathclyde. The notebook includes:
 
-- Groundwater modeling with **Flopy**
-- Particle tracking with **MODPATH**
+- Groundwater modeling with **MODFLOW** using **Flopy**
+- Flowpath computation with **MODPATH**
 - Solute transport modelling with **MT3DMS**
 - GIS data handling with **GeoPandas** and **Rasterio**
 - Basic **matplotlib plotting**
